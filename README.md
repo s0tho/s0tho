@@ -1,10 +1,3 @@
-
-<i>Let's Connect:</i><br>
-
-[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/thomas-soulas-53514b161/) &nbsp;&nbsp;
-[![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/Sacrezar) &nbsp;&nbsp;
-[![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://www.twitter.com/Sacrezar) &nbsp;&nbsp;
-[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:thomas.soulas@viacesi.fr)
 ***********************************
 ### Hi there 👋
 
@@ -12,18 +5,45 @@
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Thomas Soulas from France.
 - 🔭 I’m currently pursuing my Master's degree at CESI graduate school of engineering (IT oriented).
 - 🌱 I’m currently apprehending Data Science.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tech Stack</b> <br>
+<br>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<br>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<br>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<br>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Projecting to learn</b> <br>
+<br>
+<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
+<code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<br>
+***********************************
+<a href="https://github.com/Sacrezar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacrezar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/Sacrezar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
+</a>
+<br>
+<i>Let's Connect:</i><br>
 
-- 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS/NextJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | LaTeX
-- 🖥 &nbsp; Premiere Pro | Photoshop | InDesign
+<a href="https://www.linkedin.com/in/thomas-soulas-53514b161/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="https://github.com/Sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
+<a href="https://www.twitter.com/Sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
+<a href="mailto:thomas.soulas@viacesi.fr" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+<a href="https://www.youtube.com/user/sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a>
 
-
-
-![thomas Soulas Github Stats](https://github-readme-stats.vercel.app/api?username=sacrezar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Thank You 🙏🏼
 ***********************************
