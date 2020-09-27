@@ -28,6 +28,12 @@
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <br>
 
+Learning Projects :
+
+<a href="https://github.com/SacreLearning/Exercice-Data-Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SacreLearning&repo=Exercice-Data-Analytics" />
+</a>
+
 ##
 <br>
 <a href="https://github.com/Sacrezar">
