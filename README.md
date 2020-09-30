@@ -29,12 +29,17 @@
 <br>
 
 Learning Projects :
-
+<br>
 <a href="https://github.com/SacreLearning/Exercice-Data-Analytics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SacreLearning&repo=Exercice-Data-Analytics" />
 </a>
+<a href="https://github.com/SacreLearning/Starcraft2-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SacreLearning&repo=Starcraft2-AI" />
+</a>
+<br>
 
 ##
+
 <br>
 <a href="https://github.com/Sacrezar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacrezar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
@@ -42,6 +47,7 @@ Learning Projects :
 <a href="https://github.com/Sacrezar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
 </a>
+
 <br>
 
 **💬 Contact me**
