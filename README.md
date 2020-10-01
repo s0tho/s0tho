@@ -41,6 +41,7 @@ Learning Projects :
 ##
 
 <br>
+<div align="center">
 <a href="https://github.com/Sacrezar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacrezar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
@@ -52,7 +53,7 @@ Learning Projects :
 <p align="center" href="https://wakatime.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar&theme=algolia" />
 </p>
-
+</div>
 
 ##
 
