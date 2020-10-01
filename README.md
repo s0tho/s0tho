@@ -47,8 +47,12 @@ Learning Projects :
 <a href="https://github.com/Sacrezar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
 </a>
-
 <br>
+<a href="https://wakatime.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar" />
+</a>
+
+##
 
 **💬 Contact me**
 
