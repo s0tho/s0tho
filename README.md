@@ -49,7 +49,6 @@ Learning Projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br>
-<br>
 <p align="center" href="https://wakatime.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar&theme=algolia" />
 </p>
