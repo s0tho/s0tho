@@ -49,10 +49,9 @@ Learning Projects :
 </a>
 <br>
 <br>
-
-<a href="https://wakatime.com">
+<p align="center" href="https://wakatime.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar&theme=algolia" />
-</a>
+</p>
 
 
 ##
