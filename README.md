@@ -44,12 +44,12 @@ Learning Projects :
 <a href="https://github.com/Sacrezar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacrezar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/Sacrezar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
+<a href="https://wakatime.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar&theme=algolia" />
 </a>
 <br>
-<a href="https://wakatime.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sacrezar" />
+<a align="center" href="https://github.com/Sacrezar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 ##
