@@ -33,9 +33,6 @@ Learning Projects :
 <a href="https://github.com/SacreLearning/Exercice-Data-Analytics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SacreLearning&repo=Exercice-Data-Analytics" />
 </a>
-<a href="https://github.com/SacreLearning/Starcraft2-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SacreLearning&repo=Starcraft2-AI" />
-</a>
 <br>
 
 ##
