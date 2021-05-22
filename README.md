@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ### About me
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Thomas Soulas from France.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Thomas from France.
 - 🔭 I’m currently pursuing my Master's degree at CESI graduate school of engineering (IT oriented).
 - 🌱 I’m currently apprehending Data Science.
 
