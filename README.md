@@ -2,8 +2,8 @@
 ## I am a student researcher and engineer!
 
 ### WORKING ON
-- [**`SpikingConvNet`**](Sacrezar/SpikingConvNet): (Fork) Spiking convolutional neural network implementation with numpy.
-- [**`texplates`**](Sacrezar/texplates): A collection of LaTeX template I find usable or I made for my own use. 
+- [**`SpikingConvNet`**](https://github.com/Sacrezar/SpikingConvNet): (Fork) Spiking convolutional neural network implementation with numpy.
+- [**`texplates`**](https://github.com/Sacrezar/texplates): A collection of LaTeX template I find usable or I made for my own use. 
 
 ### IDEAS
 - Nothing yet!
@@ -12,9 +12,9 @@
 #### USABLE
 - Nothing yet!
 #### DEPRECATED OR ROUGH DRAFT
-- [**`Idleon_game_datas`**](Sacrezar/Idleon_game_datas): A collection of formulas and scripts about Legends of Idleon MMO, a game made by Lavaflame2. 
-- [**`My-Steam-Reviews`**](Sacrezar/My-Steam-Reviews): A tool to retrieve steam reviews from a given user.
-- [**`MissyThePromBot-Exia`**](Sacrezar/MissyThePromBot-Exia): A discord bot to choose 4 people to give them a role following the PBL pedagogy (Leader, Secretary, Scribe and Time Keeper)
+- [**`Idleon_game_datas`**](https://github.com/Sacrezar/Idleon_game_datas): A collection of formulas and scripts about Legends of Idleon MMO, a game made by Lavaflame2. 
+- [**`My-Steam-Reviews`**](https://github.com/Sacrezar/My-Steam-Reviews): A tool to retrieve steam reviews from a given user.
+- [**`MissyThePromBot-Exia`**](https://github.com/Sacrezar/MissyThePromBot-Exia): A discord bot to choose 4 people to give them a role following the PBL pedagogy (Leader, Secretary, Scribe and Time Keeper)
 
 ## 
 
