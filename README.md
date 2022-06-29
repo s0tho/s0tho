@@ -1,9 +1,22 @@
 ***********************************
-## Hi there 👋
+## I am a student researcher and engineer!
 
-### About me
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Thomas from France.
-- 🔭 I’m currently pursuing my Master's degree at CESI graduate school of engineering (IT oriented).
+### WORKING ON
+- [**`SpikingConvNet`**](Sacrezar/SpikingConvNet): (Fork) Spiking convolutional neural network implementation with numpy.
+- [**`texplates`**](Sacrezar/texplates): A collection of LaTeX template I find usable or I made for my own use. 
+
+### IDEAS
+- Nothing yet!
+
+### PREVIOUS PROJECTS
+#### USABLE
+- Nothing yet!
+#### DEPRECATED OR ROUGH DRAFT
+- [**`Idleon_game_datas`**](Sacrezar/Idleon_game_datas): A collection of formulas and scripts about Legends of Idleon MMO, a game made by Lavaflame2. 
+- [**`My-Steam-Reviews`**](Sacrezar/My-Steam-Reviews): A tool to retrieve steam reviews from a given user.
+- [**`MissyThePromBot-Exia`**](Sacrezar/MissyThePromBot-Exia): A discord bot to choose 4 people to give them a role following the PBL pedagogy (Leader, Secretary, Scribe and Time Keeper)
+
+## 
 
 <br>
 <div align="center">
