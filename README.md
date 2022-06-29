@@ -1,17 +1,17 @@
 ***********************************
 ## I am a student researcher and engineer!
 
-### WORKING ON
+### Working on:
 - [**`SpikingConvNet`**](https://github.com/Sacrezar/SpikingConvNet): (Fork) Spiking convolutional neural network implementation with numpy.
 - [**`texplates`**](https://github.com/Sacrezar/texplates): A collection of LaTeX template I find usable or I made for my own use. 
 
-### IDEAS
+### Ideas:
 - Nothing yet!
 
-### PREVIOUS PROJECTS
-#### USABLE
+### Previous projects:
+#### Usable
 - Nothing yet!
-#### DEPRECATED OR/AND ROUGH DRAFT
+#### Deprecated or/and rough draft
 - [**`Idleon_game_datas`**](https://github.com/Sacrezar/Idleon_game_datas): A collection of formulas and scripts about Legends of Idleon MMO, a game made by Lavaflame2. 
 - [**`My-Steam-Reviews`**](https://github.com/Sacrezar/My-Steam-Reviews): A tool to retrieve steam reviews from a given user.
 - [**`MissyThePromBot-Exia`**](https://github.com/Sacrezar/MissyThePromBot-Exia): A discord bot to choose 4 people to give them a role following the PBL pedagogy (Leader, Secretary, Scribe and Time Keeper)
