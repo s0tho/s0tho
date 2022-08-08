@@ -20,10 +20,10 @@
 
 <br>
 <div align="center">
-<a href="https://github.com/Sacrezar">
+<a href="https://github.com/tsoulas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sacrezar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
-<a align="center" href="https://github.com/Sacrezar">
+<a align="center" href="https://github.com/tsoulas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sacrezar&count_private=true&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br>
