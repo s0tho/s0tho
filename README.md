@@ -34,11 +34,7 @@
 **💬 Contact me**
 
 <a href="https://www.linkedin.com/in/thomas-soulas-53514b161/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-<a href="https://github.com/Sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
-<a href="https://www.twitter.com/Sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"></a>
-<a href="mailto:thomas.soulas@viacesi.fr" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-<a href="https://www.youtube.com/user/sacrezar" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a>
-
+<a href="https://github.com/tsoulas" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
 
 #### Thank You 🙏🏼
 ***********************************
