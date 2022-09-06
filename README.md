@@ -29,12 +29,5 @@
 <br>
 </div>
 
-##
-
-**💬 Contact me**
-
-<a href="https://www.linkedin.com/in/thomas-soulas-53514b161/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-<a href="https://github.com/s0tho" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
-
 #### Thank You 🙏🏼
 ***********************************
