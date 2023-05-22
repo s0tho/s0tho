@@ -6,7 +6,9 @@
 - [**`texplates`**](https://github.com/s0tho/texplates): A collection of LaTeX template I find usable or I made for my own use. 
 
 ### Ideas:
-- Nothing yet!
+- [Factorio](https://www.factorio.com/) IDLE, a mod to play factorio as an idle game.
+- Password semantic guessability using NLP. 
+- Solving [Factorio](https://www.factorio.com/) automatically.
 
 ### Previous projects:
 #### Usable
