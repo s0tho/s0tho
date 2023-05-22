@@ -4,6 +4,7 @@
 ### Working on:
 - [**`SpikingConvNet`**](https://github.com/s0tho/SpikingConvNet): (Fork) Spiking convolutional neural network implementation with numpy.
 - [**`texplates`**](https://github.com/s0tho/texplates): A collection of LaTeX template I find usable or I made for my own use. 
+- [**`IIWB`**](https://github.com/s0tho/IIWB): All-in-One administration discord bot with visualization tools
 
 ### Ideas:
 - [Factorio](https://www.factorio.com/) IDLE, a mod to play factorio as an idle game.
